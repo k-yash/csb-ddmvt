@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://.github.io/csb-ddmvt/static/css/main.87792776.chunk.css",
+    "main.js": "https://.github.io/csb-ddmvt/static/js/main.c2bc798d.chunk.js",
+    "main.js.map": "https://.github.io/csb-ddmvt/static/js/main.c2bc798d.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-ddmvt/static/js/runtime-main.33d32940.js",
+    "runtime-main.js.map": "https://.github.io/csb-ddmvt/static/js/runtime-main.33d32940.js.map",
+    "static/js/2.06b93e0c.chunk.js": "https://.github.io/csb-ddmvt/static/js/2.06b93e0c.chunk.js",
+    "static/js/2.06b93e0c.chunk.js.map": "https://.github.io/csb-ddmvt/static/js/2.06b93e0c.chunk.js.map",
+    "index.html": "https://.github.io/csb-ddmvt/index.html",
+    "static/css/main.87792776.chunk.css.map": "https://.github.io/csb-ddmvt/static/css/main.87792776.chunk.css.map",
+    "static/js/2.06b93e0c.chunk.js.LICENSE.txt": "https://.github.io/csb-ddmvt/static/js/2.06b93e0c.chunk.js.LICENSE.txt",
+    "static/media/commerce.7f2fa61b.png": "https://.github.io/csb-ddmvt/static/media/commerce.7f2fa61b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33d32940.js",
+    "static/js/2.06b93e0c.chunk.js",
+    "static/css/main.87792776.chunk.css",
+    "static/js/main.c2bc798d.chunk.js"
+  ]
+}
